@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xeon", "Xeon.csproj", "{5B0D3AD9-C39B-4075-937A-E45D70D3D764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0D3AD9-C39B-4075-937A-E45D70D3D764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0D3AD9-C39B-4075-937A-E45D70D3D764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0D3AD9-C39B-4075-937A-E45D70D3D764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0D3AD9-C39B-4075-937A-E45D70D3D764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7D4168-3DA4-4FBD-A3DF-071FEC023E69}
+	EndGlobalSection
+EndGlobal
